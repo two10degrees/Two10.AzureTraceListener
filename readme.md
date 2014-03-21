@@ -13,7 +13,7 @@ PM> Install-Package Two10.AzureTraceListener
 Clone from GitHub:
 
 ```
-https://github.com/richorama/Two10.AzureTraceListener.git
+> git clone https://github.com/richorama/Two10.AzureTraceListener.git
 ```
 
 Then open the solution in Visual Studio and build.
