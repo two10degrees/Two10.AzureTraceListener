@@ -16,7 +16,7 @@ Clone from GitHub:
 https://github.com/richorama/Two10.AzureTraceListener.git
 ```
 
-Then open the solution in Visual Studio and build build.
+Then open the solution in Visual Studio and build.
 
 ## Usage
 
